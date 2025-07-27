@@ -27,6 +27,7 @@ It is a complete, hands-on learning journey to build a real-world microblog web 
 
 ## 📁 Project Structure
 
+```
 MicroBlog/
 ├── app/
 │ ├── templates/
@@ -42,8 +43,7 @@ MicroBlog/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
-
+```
 
 ---
 
