@@ -1,0 +1,19 @@
+# Automatically normalize line endings
+* text=auto
+
+# Explicitly declare text files
+*.py text
+*.html text
+*.css text
+*.js text
+*.txt text
+*.md text
+*.yml text
+*.ini text
+
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary

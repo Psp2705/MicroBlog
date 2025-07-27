@@ -1,0 +1,72 @@
+# --------------------
+# Python bytecode
+# --------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --------------------
+# Virtual environments
+# --------------------
+venv/
+.venv/
+env/
+ENV/
+pip-wheel-metadata/
+
+# --------------------
+# Flask / Config / Secrets
+# --------------------
+instance/
+.env
+.flaskenv
+config.py
+
+# SQLite DB files created during the tutorial
+app.db
+*.sqlite
+*.sqlite3
+*.db
+
+# --------------------
+# Logs
+# --------------------
+*.log
+
+# --------------------
+# Testing / Coverage (used in later parts)
+# --------------------
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# --------------------
+# Type checking / linters
+# --------------------
+.mypy_cache/
+.pyre/
+.pytype/
+
+# --------------------
+# Packaging / build artifacts
+# --------------------
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# --------------------
+# IDE / Editor junk
+# --------------------
+.vscode/
+.idea/
+*.iml
+
+# --------------------
+# OS files
+# --------------------
+.DS_Store
+Thumbs.db
+
+migrations/
