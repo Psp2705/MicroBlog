@@ -1,6 +1,6 @@
 # 🧪 Flask Mega-Tutorial Practice Project
 
-This repository contains code and notes from following [Miguel Grinberg’s Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world). It is a complete, hands-on learning journey to build a real-world microblog web application using Flask.
+It is a complete, hands-on learning journey to build a real-world microblog web application using Flask.
 
 ---
 
